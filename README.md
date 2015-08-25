@@ -14,4 +14,4 @@ Check http://www.firsttimeprogrammer.blogspot.com/2015/08/using-arduino-to-measu
 Other articles are available at http://www.firsttimeprogrammer.blogspot.com
 
 # License
-See the LICENSE file for license rights and limitations (GPL).
+See the LICENSE file for license rights and limitations (GPL 3.0).
