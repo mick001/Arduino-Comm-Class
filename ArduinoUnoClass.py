@@ -23,7 +23,7 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 #    If you need to contact the author of this program, please fill in the
-#    contact form at http://firsttimeprogrammer.blogspot.it/p/contacts.html
+#    contact form at http://firsttimeprogrammer.blogspot.com/p/contacts.html
 #------------------------------------------------------------------------------
 
 
