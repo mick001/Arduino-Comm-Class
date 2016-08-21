@@ -3,7 +3,7 @@
 # Purpose:     
 #
 # Created:     12/08/2014
-# Copyright:   (c) Copyright Mic 2014
+# Copyright:   (c) Copyright Michy 2014
 # Licence:     GNU GPL
 #
 #
