@@ -1,6 +1,0 @@
-{
-  "name": "Arduinocommclass: a class to communicate with Arduino through Python",
-  "tagline": "Arduino Python Class for fast communication",
-  "body": "# ArduinoCommClass\r\nArduino Python Class, a wrapper of the serial module for fast communication with your Arduino board\r\n\r\nIncluded functions:\r\nsend integers and array of integers to Arduino through the serial port and read data sent from the board.\r\n\r\nA GUI is available but by no means necessary to use the class.\r\nThe article presenting the GUI can be found at:\r\nhttp://www.firsttimeprogrammer.blogspot.com/2014/08/arduino-module-gui-beta-version.html\r\n\r\n# Examples of use\r\nCheck http://www.firsttimeprogrammer.blogspot.com/2015/08/using-arduino-to-measure-friction.html for the article explaining the example of use (measuring friction coefficient using Arduino) provided in this repository.\r\n\r\nOther articles are available at http://www.firsttimeprogrammer.blogspot.com\r\n\r\n# License\r\nSee the LICENSE file for license rights and limitations (GPL 3.0).\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
