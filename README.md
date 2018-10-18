@@ -1,4 +1,4 @@
-## ArduinoCommClass
+## Arduino-Comm-Class
 
 Arduino Communication Class is a high level interface based on the serial module for faster communication with your Arduino board.
 
