@@ -1,0 +1,8 @@
+title: "Arduinocommclass: a class to communicate with Arduino through Python"
+description: Arduino Python Class for fast communication
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
